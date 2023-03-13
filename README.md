@@ -1,4 +1,4 @@
-# Unhinted Iosevka Etoile WebFont 20.0.0
+# Unhinted Iosevka Etoile WebFont 21.0.0
 
 ## How to use
 
